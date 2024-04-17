@@ -43,8 +43,10 @@ homebrew_installed_packages:
   - iperf
   - nmap
   - nvm
+  - oh-my-posh
   - pyenv
   - ssh-copy-id
+  - telnet
   - wget
   - zsh-history-substring-search
 
@@ -53,6 +55,7 @@ homebrew_taps: []
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - audacity
+  - boop
   - iterm2
   - jetbrains-toolbox
   - microsoft-remote-desktop
