@@ -61,6 +61,7 @@ homebrew_cask_apps:
   - microsoft-remote-desktop
   - rancher
   - wireshark
+  - nikitabobko/tap/aerospace
 
 osx_script: "~/.osx --no-restart"
 
